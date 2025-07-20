@@ -60,7 +60,7 @@ To open the project in MATLAB, enter the following command in the MATLAB command
 uiopen('Project file path', 1)
 ```
 
-Replace `'Project file path'` with the actual file (.prj file) path to your project's main file within the cloned directory.
+Replace `'Project file path'` with the actual file (.prj file) path to your project's main file within the cloned directory. The .prj file is named "Lockheed_JetStar_Autopilot_MIL_phase.prj".
 
 **Tip:**  
 Using GitHub Desktop or GitKraken offers a convenient visual interface for managing the project, while the command line offers speed and flexibility. Once cloned, ensure you have MATLAB installed and the path to your project file ready for a smooth start.
