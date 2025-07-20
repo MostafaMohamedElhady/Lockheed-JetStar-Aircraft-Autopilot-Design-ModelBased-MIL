@@ -18,7 +18,7 @@ This project demonstrates the model-in-the-loop development of an autopilot for 
   
 ## 🧩 SIMULINK Model Architecture
 <p align="center"> 
-<img src="https://github.com/MostafaMohamedElhady/Lockhead-Jetstar-Autopilot/blob/main/flowchart4.svg" alt="Autopilot Design Flowchart" width="1000" /> </a> </p>
+<img src="https://github.com/MostafaMohamedElhady/Lockheed-JetStar-Aircraft-Autopilot-Design-ModelBased-MIL/blob/main/SIMULINK_Architecture.svg" alt="Autopilot Design Flowchart" width="1000" /> </a> </p>
 
 ## ✈️ Mission profile and demonstration
 The fully autonomous mission composed of the following stages requiring/commanding different attitudes or headings:
