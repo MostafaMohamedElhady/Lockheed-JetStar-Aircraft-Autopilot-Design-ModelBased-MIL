@@ -102,6 +102,7 @@ By experimenting with the provided tools and features, you will gain hands-on in
 ## 🐞 Reporting Bugs & Feedback
 
 If you find a bug or have suggestions for improvement, please [open an issue](https://github.com/username/repo-name/issues) on GitHub.
+
 ---
 
 Thank you for checking out this project!  
