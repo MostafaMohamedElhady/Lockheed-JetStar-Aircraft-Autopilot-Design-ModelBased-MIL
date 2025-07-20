@@ -94,7 +94,7 @@ By experimenting with the provided tools and features, you will gain hands-on in
 
 ### 3. Interfacing SIMULINK with FlightGear
 
-- If you want to visualize an entire mission in FlightGear, make sure you have established the proper interface between your Simulink model and FlightGear. For a clear, step-by-step walkthrough, it is recommended to watch this [demonstration video.](https://www.youtube.com/watch?v=f8tdTiuj5lo&t=1827s)
+- If you want to visualize an entire mission in FlightGear, make sure you have established the proper interface between your Simulink model and FlightGear. For a clear, step-by-step walkthrough, it is recommended to watch this [demonstration video.](https://youtu.be/f8tdTiuj5lo?si=YVbnqBAaEhKORMIY)
 
 
 ## 🐞 Reporting Bugs & Feedback
