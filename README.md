@@ -99,7 +99,7 @@ By experimenting with the provided tools and features, you will gain hands-on in
 
 ## 🐞 Reporting Bugs & Feedback
 
-If you find a bug or have suggestions for improvement, please [open an issue](https://github.com/username/Lockheed-JetStar-Aircraft-Autopilot-Design-ModelBased-MIL/issues) on GitHub.
+If you find a bug, please open the **Issues** tab above and create a new issue to let us know. Your feedback helps us improve the project!
 
 ---
 
