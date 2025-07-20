@@ -40,20 +40,18 @@ Follow these steps to set up and run the project:
 You have two options:
 
 #### Using GitHub Desktop or GitKraken
-
 - **GitHub Desktop:**
   1. Open GitHub Desktop and sign in if prompted.
   2. Go to **File > Clone Repository**.
   3. Select this repository, choose a destination folder, and click **Clone**.
-
 - **GitKraken:**
   1. Open GitKraken and sign in if needed.
   2. Select **Clone a repo**, enter the repository URL, choose where to save it locally, and proceed.
 
-#### Or, Clone via the Command Line
+#### Or, Clone via the Command Line (add your username)
 ```
-git clone https://github.com/username/repo-name.git
-cd repo-name
+git clone https://github.com/"username"/Lockheed-JetStar-Aircraft-Autopilot-Design-ModelBased-MIL.git
+cd Lockheed-JetStar-Aircraft-Autopilot-Design-ModelBased-MIL
 ```
 ### 2. 🚀 Run the Project
 
@@ -101,7 +99,7 @@ By experimenting with the provided tools and features, you will gain hands-on in
 
 ## 🐞 Reporting Bugs & Feedback
 
-If you find a bug or have suggestions for improvement, please [open an issue](https://github.com/username/repo-name/issues) on GitHub.
+If you find a bug or have suggestions for improvement, please [open an issue](https://github.com/username/Lockheed-JetStar-Aircraft-Autopilot-Design-ModelBased-MIL/issues) on GitHub.
 
 ---
 
