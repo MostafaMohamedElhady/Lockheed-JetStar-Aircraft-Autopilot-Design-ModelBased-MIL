@@ -27,7 +27,7 @@ The fully autonomous mission composed of the following stages requiring/commandi
 3. Making a circle by commanding a change in the heading angle of 360 degrees.<br />
 4. Cruising at constant velocity and heading angle for 2 minutes.<br />
 5. Commanding a change in the heading angle with 30 degrees along with a step input of 100 ft in altitude.<br />
-6. Descending down to the initial altitude by reducing the altitude by 10,000 ft at 1500 ft/min descent rate.<br />
+6. Descending down to the initial altitude by reducing the altitude by 10,100 ft at 1500 ft/min descent rate.<br />
 
 ** To see the full mission demonstration, please refer to: [Fully Autonomous Mission Demo (16x speed)](https://www.youtube.com/watch?v=Ek5aRqp5JpQ).<br />
 
