@@ -14,7 +14,7 @@ phi0   = initial.Euler_Angles(1);
 theta0 = initial.Euler_Angles(2);
 psi0   = initial.Euler_Angles(3);
 
-% Velocities
+% Velocity
 Vt0 = initial.Vtot;
 u0 = initial.Vbody(1);
 v0 = initial.Vbody(2);
