@@ -3,7 +3,7 @@
 <img src="https://github.com/MostafaMohamedElhady/Lockheed-JetStar-Aircraft-Autopilot-Design-ModelBased-MIL/blob/main/Aircraft%20in%20mission.png" alt="FlightGear Scene" width="1000" /> </a> </p>
 
 ## 📝 Project summary: 
-This project demonstrates the model-in-the-loop development of an autopilot for the Lockheed JetStar aircraft, using MATLAB/Simulink with single-input-single-output (SISO) linear control theories to meet flying quality criteria. The designed controller is then validated on a linear multi-input, multi-output (MIMO) system and finally tested on a full nonlinear aircraft model to ensure robust performance across modeling complexities.
+This project demonstrates the model-in-the-loop development of an autopilot for the Lockheed JetStar aircraft, using MATLAB/Simulink with single-input-single-output (SISO) linear control theories to meet flying quality criteria. The designed controller is then validated on a linear multi-input, multi-output (MIMO) system and finally tested on a full nonlinear aircraft model to ensure robust performance across various modeling complexities.
 
 ## 🚩 Project highlights: 
 * Studying and reviewing mathematical modeling foundations for fixed-wing aircraft.
