@@ -6,7 +6,7 @@
 This project demonstrates the model-in-the-loop development of an autopilot for the Lockheed JetStar aircraft, using MATLAB/Simulink with single-input-single-output (SISO) linear control theories to meet flying quality criteria. The designed controller is then validated on a linear multi-input, multi-output (MIMO) system and finally tested on a full nonlinear aircraft model to ensure robust performance across various modeling complexities.
 
 ## 🚩 Project highlights: 
-* Studying and reviewing mathematical modeling foundations for fixed-wing aircraft.
+* researching and reviewing mathematical modeling foundations for fixed-wing aircraft.
 * Building full non-linear model of the A/C for dynamics simulation using MATLAB & SIMULINK.
 * Building full linear model for A/C for dynamics simulation using MATLAB & SIMULINK.
 * Designing Longitudinal autopilot (Elevator from pitch, Throttle from airspeed and Altitude hold loops) for linearized aircraft model using single-input-single-output tool in MATLAB.
